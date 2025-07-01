@@ -8,9 +8,8 @@
 ---
 
 ## 📚 Context
-<p align="center">![Hans in the classroom](./images/Hans_Classroom_small.png)  
-<em>Hans wanted to introduce topics the way people usually learn new things, by experiencing them first.</em>
-</p>
+![Hans in the classroom](./images/Hans_Classroom_small.png)  
+*Hans wanted to introduce topics the way people usually learn new things, by experiencing them first.*  
 
 In designing Lesson 1 for DeveloperYou School, I introduced a flipped vocabulary model: teach the concept first, then reveal the technical term. It’s grounded in instructional design theory (Sweller, UDL), and it worked well in testing.
 
