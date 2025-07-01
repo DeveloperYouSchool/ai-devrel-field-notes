@@ -42,4 +42,6 @@ See the [LICENSE](./LICENSE) file for full details.
 
 ## 🐋 About DeveloperYou School
 
-DeveloperYou School is a hands-on training initiative focused on helping new developers build clarity and confidence. We use metaphors, microl
+DeveloperYou School is a hands-on training initiative focused on helping new developers build clarity and confidence. We use metaphors, microlearning, and humor to teach real skills without the gatekeeping.
+
+Learn more at: [DeveloperYouSchool.com](https://developeryouschool.com)
