@@ -8,6 +8,8 @@
 ---
 
 ## 📚 Context
+![Hans in the classroom](./images/Hans_Classroom.png)
+*Hans wanted to introduce topics the way people usually learn new things, by experiencing them first.*  
 
 In designing Lesson 1 for DeveloperYou School, I introduced a flipped vocabulary model: teach the concept first, then reveal the technical term. It’s grounded in instructional design theory (Sweller, UDL), and it worked well in testing.
 
@@ -16,9 +18,12 @@ What would a traditionalist think?
 
 So I asked an LLM to simulate an academic reviewer, one who would assume the method was flawed until proven otherwise.
 
-> I didn’t want cheerleading. I wanted pessimism. I asked it to discredit my method unless I could defend it.
+> I wanted to see if the model could surface genuine flaws—not just echo good intentions.
 
 ---
+
+*When I asked the AI to create a pessimistic but honest reviewer, I also asked for a persona.  Thus, Harold was born.*
+![Harold looking his usual, grumpy, self](./images/Harold.png)
 
 ## 🧪 Academic Counterpoint
 
@@ -60,7 +65,7 @@ This instructional approach is pedagogically interesting but potentially fragile
 ---
 
 ## 🛠️ My Design Response
-
+![Me explaining](./images/Narrator_Rob.png)
 While I still believe in the value of concept-first instruction, especially for nervous beginners, this critique gave me useful pressure-testing:
 
 - I added a vocabulary-matching section to reinforce correct terms at the end.
