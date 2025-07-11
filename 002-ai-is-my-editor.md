@@ -7,7 +7,7 @@
 
 ---
 
-> Author's note: I allowed the AI to write this post after we discussed the topic for a bit; no edits other than this line.  
+> Author's note: I allowed the AI to write this post after we discussed the topic for a bit; no edits other than this line and adding Hans for branding.  
 
 ## 📚 Context
 ![Hans in the classroom](./images/Hans_Classroom_small.png)  
