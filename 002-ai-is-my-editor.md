@@ -32,4 +32,4 @@ So yes, AI is our editor. But we’re the ones holding the pen.
 
 ---
 
-Want to know more? [Check out the full AI Field Journal](../ai-field-journal).
+Want to know more? [Check out the full AI Field Journal](../).
