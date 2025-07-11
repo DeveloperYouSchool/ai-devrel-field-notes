@@ -3,7 +3,7 @@
 
 Welcome to the DeveloperYou School lab notebook on using AI for Developer Relations and developer education.  
 
-![Hans with a hard hat](./images/hans_waving.png)  
+![Hans with a hard hat](./images/hans_waving_small.png)  
 *Hans is helping us document our journey of using AI to help make better education*
 
 This repo is a living collection of real-world experiments—using tools like ChatGPT to plan, draft, critique, and improve content for technical audiences.
