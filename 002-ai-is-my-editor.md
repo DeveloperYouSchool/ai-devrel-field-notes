@@ -1,12 +1,15 @@
+# 002 – AI Is My Editor: Using the tool as a tool, not a crutch  
+
+**Published:** "AI Is My Editor"  
+**Author:** ChatGPT  
+**Project:** DeveloperYou School – Field Notes  
+**Theme:** A transparent look at how we're using AI as a developmental partner for our content.  
+
 ---
-title: "AI Is My Editor"
-id: 002-ai-is-my-editor
-tags: [AI, writing, curriculum, workflow, DeveloperYou, tools]
-summary: "A transparent look at how we're using AI as a developmental partner for our content."
----
+
 > Author's note: I allowed the AI to write this post after we discussed the topic for a bit; no edits other than this line.  
  
-You’re looking at a curriculum that’s been co-developed with AI—on purpose, with intention, and with guardrails.
+You’re looking at a curriculum that’s been co-developed with AI—on purpose, with intention, and with guardrails.  
 
 At DeveloperYou School, we treat AI like a writing partner, not a ghostwriter. Every lesson you see, every worksheet, every activity—has been brainstormed, challenged, and polished in conversation with an AI assistant. But make no mistake: the ideas, the philosophy, the pacing, the tone... that’s human.
 
