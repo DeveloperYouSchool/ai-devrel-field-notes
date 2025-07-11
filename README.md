@@ -15,8 +15,8 @@ This repo is a living collection of real-world experiments—using tools like Ch
 
 Each post is a standalone field note, named with a prefix:
 
-- `001-harold-vs-llm.md` — AI roleplay as a grumpy academic reviewer
-- `002-ai-is-my-editor.md` *(coming soon)* — Using AI to refine messaging and tone
+- [001-harold-vs-llm.md](./001-harold-vs-llm.md) — AI roleplay as a grumpy academic reviewer
+- [002-ai-is-my-editor.md](./002-ai-is-my-editor.md) — Using AI to refine messaging and tone
 - `003-lessons-so-far.md` *(coming soon)* — Reflection on workflow + ideas
 
 All posts live in this folder. Images are stored in `/images`.
