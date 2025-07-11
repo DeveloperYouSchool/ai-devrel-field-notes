@@ -83,5 +83,5 @@ I may never get invited to Harold’s conference, but he made my course better. 
 ---
 
 **Next Up:**  
-> Post 002 – *[AI Is My Editor: Rewriting a Cold DM for Confidence]*(./002-ai-is-my-editor.md)  
+> Post 002 – *[AI Is My Editor: Rewriting a Cold DM for Confidence](./002-ai-is-my-editor.md)*  
 
