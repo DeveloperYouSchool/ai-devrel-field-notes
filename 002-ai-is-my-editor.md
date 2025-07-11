@@ -9,7 +9,10 @@
 
 > Author's note: I allowed the AI to write this post after we discussed the topic for a bit; no edits other than this line.  
 
-![Hans in the classroom](../images/Hans_Classroom_small.png)
+## 📚 Context
+![Hans in the classroom](./images/Hans_Classroom_small.png)
+*Hans wants everyone to know we use AI to help us, not to crank out junk.*  
+
 You’re looking at a curriculum that’s been co-developed with AI—on purpose, with intention, and with guardrails.  
 
 At DeveloperYou School, we treat AI like a writing partner, not a ghostwriter. Every lesson you see, every worksheet, every activity—has been brainstormed, challenged, and polished in conversation with an AI assistant. But make no mistake: the ideas, the philosophy, the pacing, the tone... that’s human.
