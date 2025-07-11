@@ -10,7 +10,7 @@
 > Author's note: I allowed the AI to write this post after we discussed the topic for a bit; no edits other than this line.  
 
 ## 📚 Context
-![Hans in the classroom](./images/Hans_Classroom_small.png)
+![Hans in the classroom](./images/Hans_Classroom_small.png)  
 *Hans wants everyone to know we use AI to help us, not to crank out junk.*  
 
 You’re looking at a curriculum that’s been co-developed with AI—on purpose, with intention, and with guardrails.  
