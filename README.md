@@ -20,7 +20,7 @@ Each post is a standalone field note, named with a prefix:
 
 - [Harold vs. my LLM](./001-harold-vs-llm.md) — AI roleplay as a grumpy academic reviewer  
 - [AI is my editor](./002-ai-is-my-editor.md) — Using AI to help, not replace  
-- [AI is not replacing me](./003-AI-Replacement.md) — AI and I can each do things the other cannot  
+- [AI is not replacing me](./003-AI-replacement.md) — AI and I can each do things the other cannot  
 
 ---
 
